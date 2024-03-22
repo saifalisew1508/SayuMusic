@@ -6,7 +6,6 @@
     "python3",
     "telegram",
     "bot",
-    "AnonX",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -34,7 +33,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "5982904247",
+        "value": "6937136349",
         "required": true
       },
       "STRING_SESSION": {
